@@ -1,0 +1,38 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.navbar{
+    font-weight: bolder;
+    background-color: gray;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+main{
+    margin-bottom: 10%;
+}
+
+#quemSomos{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+.parceiros{
+    color: cornsilk;
+    background-color: rgb(51, 48, 44);
+}
+
+#servicos{
+    padding:30px ;
+}
+
+
+.bg-footer{
+    color: white;
+    background-color: black;
+}
